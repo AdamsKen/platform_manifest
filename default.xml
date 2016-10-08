@@ -6,6 +6,10 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-7.0.0_r14" />
 
+   <remote name="du"
+           fetch="https://github.com/DirtyUnicorns/"
+           review="gerrit.dirtyunicorns.com" />  
+  
   <remote  name="github"
            fetch=".." />
 
